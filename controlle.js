@@ -65,5 +65,3 @@ class produto {
     }
  
  }
- 
- var porduto = new produto();
